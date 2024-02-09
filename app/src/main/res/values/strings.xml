@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Medication Reminder App</string>
+    <string name="update_medication">Update Medication</string>
+    <string name="add_medication">Add Medication</string>
+</resources>
