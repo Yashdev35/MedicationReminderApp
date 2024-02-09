@@ -44,6 +44,13 @@ this is the back project for PS please check out the original PS i was working o
    - Firebase
    - roomdatabase
 
+## Screen shots
+ ![Add Screen1]((https://github.com/Yashdev35/FitnessApp2/blob/main/add%20screen.jpg))
+ ![Add Screen2](https://github.com/Yashdev35/FitnessApp2/blob/main/clock.jpg)
+ ![Home Screen](https://github.com/Yashdev35/FitnessApp2/blob/main/home%20screen.jpg)
+ 
+
+
 ## Issues 
    - App needs to be in the background to send notificaitons, i tried firebase but it asked for credit card and i wasn't able to find any alternative
    - it is pretty simple and straight for ward app , I made this in short time so i dont submit and unfinished app as the project
