@@ -4,8 +4,6 @@ Certainly! Here's a simple README for your Medication Reminder App:
 
 # Medication Reminder App
 
-![App Screenshot](/path/to/screenshot.png)
-
 ## Overview
 
 Welcome to the Medication Reminder App – a simple and efficient way to manage your medication schedule. This project, developed with Kotlin and Jetpack Compose, is designed to help users keep track of their medication intake seamlessly.
