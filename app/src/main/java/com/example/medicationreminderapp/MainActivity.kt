@@ -24,7 +24,11 @@ import com.example.medicationreminderapp.ui.theme.MedicationReminderAppTheme
 import java.time.LocalTime
 
 class MainActivity : ComponentActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
+        scheduleDailyAlarm(applicationContext,16,30,"Had snack? now its medicine time")
+        scheduleDailyAlarm(applicationContext,18,30,"check app for dinner medicine")
+        scheduleDailyAlarm(applicationContext,10,30,"Good Morning! Time to take your morning medicine")
         super.onCreate(savedInstanceState)
         setContent {
 

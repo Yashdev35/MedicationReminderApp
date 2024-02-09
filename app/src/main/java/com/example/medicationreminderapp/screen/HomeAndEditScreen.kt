@@ -71,7 +71,7 @@ import kotlinx.coroutines.launch
 import java.time.LocalDate
 import java.time.LocalTime
 import java.time.format.DateTimeFormatter
-
+//this is the home screen using the lazy column to display the list of medications
 @OptIn(ExperimentalMaterialApi::class)
 @Composable
 fun HomeScreen(
@@ -157,6 +157,7 @@ fun HomeScreen(
     }
 }
 
+//this screens allows the user to add or edit a medication
 @Composable
 fun AddEditDetailView(
     id: Long,
@@ -347,6 +348,7 @@ fun CustomTextFieldForTime(
 
         }
     }
+    //used an external lib to the clock in the ui
     MaterialDialog(
         dialogState = timeDialogState,
         buttons = {

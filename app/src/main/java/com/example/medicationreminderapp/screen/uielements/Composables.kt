@@ -35,7 +35,7 @@ import com.example.medicationreminderapp.data.Medication
 import com.example.medicationreminderapp.scheduleDailyAlarm
 import java.time.LocalTime
 
-
+//this file defines small composables like custom buttons or app bar
 @Composable
 fun AppBar(
     title: String,

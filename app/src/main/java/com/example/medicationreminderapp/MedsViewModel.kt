@@ -12,6 +12,8 @@ import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.launch
 import java.time.LocalTime
 
+//ViewModel class is used to maintain the state of the app and to provide the data to the UI
+//this class is used to maintain the MVVM architecture
 class MedsViewModel(
     private val repository: MedsRepository = Graph.medsRepository
 ) : ViewModel() {
