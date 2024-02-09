@@ -1,6 +1,3 @@
-Certainly! Here's a simple README for your Medication Reminder App:
-
----
 
 # Medication Reminder App
 
