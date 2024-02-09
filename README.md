@@ -54,7 +54,9 @@ this is the back project for PS please check out the original PS i was working o
 ## Issues 
    - it is pretty simple and straight for ward app , I made this in short time so i dont submit and unfinished app as the project
    - the original project was a fitness app link : https://github.com/Yashdev35/FitnessApp2
-   - Do check it out and i apologies for not completing it in the given time bracket , i will work on my self 
+   - Do check it out and i apologies for not completing it in the given time bracket , i will work on my self
+   - the app doesnt send personalised notification for each med but instead gives notifications on general times like after lunch
+   - for notifications for each medicine app needs to be running in background
 
 ## Contact
 
